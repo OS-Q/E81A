@@ -1,0 +1,16 @@
+{
+  "name": "N81",
+  "version": "1.242.0",
+  "description": "WiringPi is a PIN based GPIO access library written in C for the BCM2835, BCM2836 and BCM2837 SoC devices used in all Raspberry Pi",
+  "keywords": [
+    "framework",
+    "raspberry pi"
+  ],
+  "homepage": "http://wiringpi.com",
+  "license": "LGPL-3.0-or-later",
+  "system": [
+    "linux_armv6l",
+    "linux_armv7l",
+    "linux_armv8l"
+  ]
+}
